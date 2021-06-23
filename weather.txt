@@ -1,0 +1,5 @@
+Weather Stats for - OTTAPALAM  || 23 Jun 2021 | 11:23:49 AM
+Current temperature is : 31.36°C 
+Current weather desc   : overcast clouds
+Current Humidity       : 74%
+Current wind speed is  : 2.13kmph 
